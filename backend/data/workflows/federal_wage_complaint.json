@@ -1,0 +1,208 @@
+{
+    "id": "federal_wage_complaint",
+    "title": "Federal Wage & Hour Complaint (FLSA)",
+    "jurisdiction": "federal",
+    "legal_domain": "employment",
+    "description": "Step-by-step guide for filing a federal wage and hour complaint under the Fair Labor Standards Act (FLSA) for unpaid wages, overtime violations, or minimum wage violations.",
+    "steps": [
+        {
+            "id": "fed_wg_001",
+            "step_number": 1,
+            "phase": "pre-filing",
+            "title": "Determine if the FLSA covers your situation",
+            "description": "The FLSA covers most private and public sector employees, but there are exemptions. Confirm coverage before proceeding.",
+            "actions": [
+                "Confirm your employer is covered: businesses with $500,000+ annual revenue, or engaged in interstate commerce",
+                "Confirm you are a non-exempt employee (not executive, administrative, professional, or outside sales exempt)",
+                "Identify the violation type: unpaid minimum wage, unpaid overtime (>40hrs/week), off-the-clock work, illegal deductions",
+                "Calculate the amount owed: overtime = 1.5x regular rate for hours over 40 in a workweek",
+                "Check if your state has stronger protections (California, New York often do — consider state filing too)"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "statute_of_limitations",
+                "notes": "FLSA statute of limitations: 2 years for non-willful violations, 3 years for willful violations. Time starts from each missed paycheck."
+            },
+            "forms": [],
+            "agency": "U.S. Department of Labor — Wage and Hour Division (WHD)",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "retaliation_by_employer",
+                "class_action_potential",
+                "immigration_status_relevant"
+            ]
+        },
+        {
+            "id": "fed_wg_002",
+            "step_number": 2,
+            "phase": "pre-filing",
+            "title": "Gather evidence and calculate damages",
+            "description": "Strong documentation is essential. Collect everything you have and reconstruct what you don't.",
+            "actions": [
+                "Collect all pay stubs, pay statements, and W-2/1099 forms",
+                "Gather time records: punch cards, timesheets, app records, email or phone logs showing hours worked",
+                "Document any off-the-clock work with dates, times, and witnesses",
+                "Calculate total unpaid wages: regular pay + 1.5x overtime rate for each affected workweek",
+                "Note: FLSA allows liquidated damages (double the unpaid wages) plus attorney fees",
+                "Keep a written log of any communications with your employer about pay issues"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "ongoing",
+                "notes": "Collect records as far back as 3 years for willful violations."
+            },
+            "forms": [],
+            "agency": "N/A",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "fed_wg_003",
+            "step_number": 3,
+            "phase": "filing",
+            "title": "File a complaint with the Wage and Hour Division",
+            "description": "The WHD investigates FLSA complaints for free. You do not need an attorney to file. Filing is confidential and retaliation is illegal.",
+            "actions": [
+                "File online at dol.gov/agencies/whd/contact/complaints or call 1-866-487-9243",
+                "Provide: employer name and address, your job title, dates of employment, approximate hours worked, pay rate, and description of violation",
+                "The WHD will determine whether to investigate — investigations can take months",
+                "You will NOT be identified to your employer without your consent during investigation",
+                "Retaliation for filing a complaint is illegal under FLSA Section 15(a)(3)",
+                "Keep a copy of your complaint confirmation number"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "statute_of_limitations",
+                "notes": "File as soon as possible. Each paycheck missed starts its own limitations clock."
+            },
+            "forms": [
+                "WHD Complaint Form (online at dol.gov)"
+            ],
+            "agency": "U.S. Department of Labor — Wage and Hour Division",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "employer_retaliation_after_filing"
+            ]
+        },
+        {
+            "id": "fed_wg_004",
+            "step_number": 4,
+            "phase": "filing",
+            "title": "Alternatively or additionally: file a private lawsuit",
+            "description": "You can file your own lawsuit in federal or state court without going through the WHD. This may be faster and allows you to control the case.",
+            "actions": [
+                "Consult an employment attorney — most take FLSA cases on contingency (no upfront cost)",
+                "You can file in federal district court or state court with federal jurisdiction",
+                "FLSA allows recovery of: unpaid wages, equal amount as liquidated damages, and attorney fees",
+                "Filing a WHD complaint does NOT prevent you from filing a lawsuit (you can do both)",
+                "If WHD recovers wages on your behalf, you cannot also sue for the same wages",
+                "Class or collective actions possible if other employees were similarly affected"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "statute_of_limitations",
+                "notes": "For collective actions, each individual must 'opt in' — statute of limitations tolled only upon filing consent."
+            },
+            "forms": [
+                "Federal Civil Complaint (attorney will prepare)"
+            ],
+            "agency": "U.S. District Court",
+            "self_help_possible": false,
+            "escalation_triggers": [
+                "class_action_potential",
+                "complex_exemption_dispute"
+            ]
+        },
+        {
+            "id": "fed_wg_005",
+            "step_number": 5,
+            "phase": "hearing",
+            "title": "Cooperate with WHD investigation or litigation",
+            "description": "Whether through a WHD investigation or private lawsuit, you will need to provide information and documentation.",
+            "actions": [
+                "Respond promptly to all WHD investigator requests for information",
+                "Do not destroy or alter any records — this can hurt your case",
+                "Provide a written statement if requested",
+                "If in litigation: participate in discovery, provide documents, and attend depositions",
+                "Continue documenting any ongoing violations or retaliation",
+                "Communicate regularly with your attorney if you have one"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "case_dependent",
+                "notes": "WHD investigations typically conclude within 6-12 months. Litigation timelines vary."
+            },
+            "forms": [],
+            "agency": "WHD or Federal Court",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "employer_retaliation",
+                "witness_intimidation"
+            ]
+        },
+        {
+            "id": "fed_wg_006",
+            "step_number": 6,
+            "phase": "post-hearing",
+            "title": "Receive resolution — back pay, settlement, or judgment",
+            "description": "WHD investigations may result in a compliance agreement and back pay. Lawsuits may settle or go to trial.",
+            "actions": [
+                "WHD resolution: you receive back wages + possibly liquidated damages collected by the agency",
+                "Private settlement: review carefully with an attorney before signing any release of claims",
+                "Judgment: if you win at trial, court will award back pay, liquidated damages, and attorney fees",
+                "Review any settlement agreement for scope — ensure it does not waive future claims",
+                "Report settlement income to the IRS (back wages are taxable; liquidated damages may be too)",
+                "Keep all records of the resolution permanently"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "none",
+                "notes": "Do not sign any settlement releasing claims without reviewing with an attorney."
+            },
+            "forms": [],
+            "agency": "WHD or Federal Court",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "settlement_unusually_low",
+                "release_overbroad"
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "from": "fed_wg_001",
+            "to": "fed_wg_002",
+            "condition": null
+        },
+        {
+            "from": "fed_wg_002",
+            "to": "fed_wg_003",
+            "condition": "prefer_agency_investigation"
+        },
+        {
+            "from": "fed_wg_002",
+            "to": "fed_wg_004",
+            "condition": "prefer_private_lawsuit"
+        },
+        {
+            "from": "fed_wg_003",
+            "to": "fed_wg_004",
+            "condition": "also_filing_lawsuit"
+        },
+        {
+            "from": "fed_wg_003",
+            "to": "fed_wg_005",
+            "condition": "whd_investigation_opened"
+        },
+        {
+            "from": "fed_wg_004",
+            "to": "fed_wg_005",
+            "condition": null
+        },
+        {
+            "from": "fed_wg_005",
+            "to": "fed_wg_006",
+            "condition": null
+        }
+    ]
+}

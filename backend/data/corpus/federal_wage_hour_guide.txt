@@ -1,0 +1,161 @@
+FEDERAL WAGE AND HOUR RIGHTS GUIDE (FLSA)
+Source: U.S. Department of Labor — Wage and Hour Division
+Jurisdiction: federal
+Domain: employment
+
+=============================================================
+SECTION 1: OVERVIEW OF THE FAIR LABOR STANDARDS ACT
+=============================================================
+
+The Fair Labor Standards Act (FLSA), enacted in 1938 and amended many times since, is the primary federal law governing minimum wage, overtime pay, recordkeeping, and child labor standards for employees in the United States.
+
+The FLSA is enforced by the U.S. Department of Labor's Wage and Hour Division (WHD). Employees may also bring private lawsuits under the FLSA without going through the WHD.
+
+Coverage
+The FLSA covers employees of enterprises with annual gross sales or business of at least $500,000, and employees of smaller businesses that are individually engaged in interstate commerce (buying or selling goods that move between states, using credit cards, making phone calls across state lines, etc.). In practice, the FLSA covers most private sector employees. Federal, state, and local government employees are also generally covered.
+
+=============================================================
+SECTION 2: MINIMUM WAGE
+=============================================================
+
+The federal minimum wage is $7.25 per hour as of July 24, 2009. Many states and localities have set higher minimum wages. When state or local law requires a higher minimum wage, the employer must pay the higher rate.
+
+Tipped Employees
+Employers may pay tipped employees a cash wage as low as $2.13 per hour, provided the employee's tips bring their total hourly earnings to at least $7.25. If tips are insufficient, the employer must make up the difference. This is known as the "tip credit." Some states do not allow the tip credit and require the full minimum wage regardless of tips received.
+
+Youth Minimum Wage
+Employers may pay employees under 20 years of age a youth minimum wage of $4.25 per hour during the first 90 consecutive calendar days of employment.
+
+=============================================================
+SECTION 3: OVERTIME PAY
+=============================================================
+
+Covered non-exempt employees must receive overtime pay at a rate of at least 1.5 times their regular rate of pay for all hours worked over 40 in a single workweek (7 consecutive days as defined by the employer).
+
+The FLSA does not require overtime for hours worked over 8 in a single day — that is a state law requirement (for example, California requires daily overtime for hours over 8 in a workday).
+
+Calculating the Regular Rate
+The regular rate of pay includes all remuneration for employment except certain payments specifically excluded by the FLSA. It includes hourly wages, salary, commissions, piece rates, and most non-discretionary bonuses. It excludes discretionary bonuses, gifts, vacation pay, and certain expense reimbursements.
+
+Example: An employee earns $15/hour and works 50 hours in a week. Regular pay: 40 hours × $15 = $600. Overtime pay: 10 hours × ($15 × 1.5) = $225. Total: $825.
+
+=============================================================
+SECTION 4: EXEMPTIONS FROM OVERTIME
+=============================================================
+
+The FLSA provides several exemptions from both minimum wage and overtime requirements. The most common are:
+
+Executive Exemption
+The employee must be: (1) compensated on a salary basis at a rate of at least $684 per week (as of January 1, 2020); (2) have a primary duty of managing the enterprise or a customarily recognized department; (3) customarily and regularly direct the work of at least 2 other full-time employees; and (4) have the authority to hire, fire, or have their recommendations given particular weight.
+
+Administrative Exemption
+The employee must be: (1) compensated on a salary basis at least $684 per week; (2) have a primary duty of performing office or non-manual work directly related to the management or general business operations of the employer or employer's customers; and (3) exercise discretion and independent judgment with respect to matters of significance.
+
+Professional Exemption (Learned or Creative)
+Learned professionals (doctors, lawyers, accountants, engineers, teachers) must be compensated at least $684/week on a salary basis and have a primary duty requiring advanced knowledge in a field of science or learning customarily acquired by prolonged specialized education. Creative professionals must exercise invention, imagination, originality, or talent in a recognized field of artistic or creative endeavor.
+
+Computer Employee Exemption
+Computer employees may be paid on an hourly basis at a rate of at least $27.63/hour (or the salary threshold). They must work as systems analysts, programmers, software engineers, or similar positions.
+
+Outside Sales Exemption
+No salary threshold. The primary duty must be making sales or obtaining orders, and the employee must be customarily and regularly engaged away from the employer's place of business.
+
+Important: The employee's job title and whether they receive a salary are not by themselves sufficient to establish exemption. The employee's actual job duties must meet the specific requirements. Misclassifying non-exempt employees as exempt is one of the most common FLSA violations.
+
+=============================================================
+SECTION 5: COMMON FLSA VIOLATIONS
+=============================================================
+
+Off-the-Clock Work
+Requiring or allowing employees to work before clocking in, after clocking out, during meal breaks, or at home without compensation is an FLSA violation. Examples include: mandatory pre-shift setup, post-shift cleanup, answering work emails after hours, or security screening time.
+
+Illegal Deductions
+Employers may not make deductions from a non-exempt employee's wages that bring their hourly rate below minimum wage. Exempt salaried employees generally may not have their salary reduced based on variations in the quantity or quality of work performed, with limited exceptions.
+
+Misclassification as Independent Contractor
+Workers who are economically dependent on the employer and subject to the employer's control are employees under the FLSA, not independent contractors, regardless of what the contract says. Independent contractors are not covered by the FLSA.
+
+Misclassification as Exempt
+Calling someone a "manager" or "supervisor" without their job duties actually meeting the exemption requirements does not make them exempt from overtime.
+
+Comp Time Instead of Overtime Pay
+Private sector employers may not give compensatory time off (comp time) instead of overtime pay. Only state and local government employers may use comp time arrangements under certain conditions.
+
+=============================================================
+SECTION 6: FILING A WAGE COMPLAINT WITH THE WHD
+=============================================================
+
+Any employee who believes their employer has violated the FLSA may file a complaint with the Wage and Hour Division at no cost. The WHD investigates complaints, and investigations are free.
+
+How to File
+- Online: dol.gov/agencies/whd/contact/complaints
+- By phone: 1-866-487-9243 (toll-free)
+- In person: at any WHD district office (locations at dol.gov/agencies/whd/contact)
+
+What You Will Need to Provide
+- Your employer's full name and address
+- Your job title and duties
+- Dates of employment
+- Your rate of pay and hours worked
+- Description of the violation
+- Any pay stubs, timesheets, or records you have (copies)
+
+Confidentiality
+The WHD keeps the identity of complainants confidential to the extent possible. You will not be identified to your employer during the investigation without your consent.
+
+Investigation Process
+After receiving a complaint, a WHD investigator will contact the employer, review records, and interview employees. Investigations typically take several months. The WHD may also conduct investigations without a complaint (directed investigations). If violations are found, the WHD may require the employer to pay back wages plus an equal amount in liquidated damages.
+
+=============================================================
+SECTION 7: PRIVATE LAWSUITS UNDER THE FLSA
+=============================================================
+
+In addition to or instead of filing a WHD complaint, employees may bring a private lawsuit in federal or state court for unpaid wages under the FLSA. Private lawsuits may recover:
+
+- Unpaid wages (back pay)
+- An equal additional amount as liquidated damages (doubling the recovery)
+- Reasonable attorney fees and court costs paid by the employer
+
+Collective Actions
+The FLSA allows employees to bring collective actions on behalf of themselves and other similarly situated employees. Other employees must "opt in" by filing a written consent with the court. Each individual's statute of limitations is tolled only when their consent is filed, not when the lead plaintiff files the case.
+
+Statute of Limitations
+- Regular violations: 2 years from the date of each pay period in which the violation occurred
+- Willful violations: 3 years from the date of each violation
+- Each paycheck represents a separate potential violation with its own limitation period. Filing as soon as possible is critical because older violations become time-barred.
+
+=============================================================
+SECTION 8: ANTI-RETALIATION PROTECTIONS
+=============================================================
+
+FLSA Section 15(a)(3) makes it unlawful for any person to discharge or in any manner discriminate against any employee because they have filed a complaint or participated in any proceeding under the FLSA. Retaliation includes: termination, demotion, reduction in pay, schedule changes to harm the employee, threats, harassment, or any other adverse action taken because the employee asserted their FLSA rights.
+
+Employees who are retaliated against may file a retaliation complaint with the WHD or file a private lawsuit seeking: reinstatement to their former position, lost wages, liquidated damages, and attorney fees.
+
+The statute of limitations for a retaliation claim is 2 years (3 years for willful retaliation).
+
+=============================================================
+SECTION 9: RECORDKEEPING REQUIREMENTS
+=============================================================
+
+Employers covered by the FLSA must keep accurate records of employees' hours worked and wages paid. Required records include: employee's full name, home address, birth date (if under 19), sex and occupation, time and day the workweek begins, hours worked each day and total for each workweek, basis of pay (hourly, salary, piece rate, etc.), regular hourly rate, total straight-time and overtime earnings, deductions and additions to wages, total wages paid each pay period, date of payment and period covered.
+
+Records must be kept for at least 3 years (payroll records) or 2 years (time and earnings records supporting payroll).
+
+=============================================================
+SECTION 10: CHILD LABOR PROVISIONS
+=============================================================
+
+The FLSA restricts the hours and types of work that minors may perform. Minors under 14 may only work in limited circumstances (family farms, acting, delivering newspapers). Minors 14 and 15 may work limited hours in non-hazardous jobs. Minors 16 and 17 may work unlimited hours in non-hazardous jobs. Minors under 18 may not work in hazardous occupations designated by the Department of Labor.
+
+=============================================================
+SECTION 11: RESOURCES
+=============================================================
+
+- WHD Complaint Portal: dol.gov/agencies/whd/contact/complaints
+- WHD Phone: 1-866-487-9243
+- FLSA Text: dol.gov/agencies/whd/flsa
+- WHD Fact Sheets: dol.gov/agencies/whd/fact-sheets
+- Wage Calculator: dol.gov/agencies/whd/overtime/calculator
+- National Employment Law Project: nelp.org
+- Economic Policy Institute (wage theft resources): epi.org

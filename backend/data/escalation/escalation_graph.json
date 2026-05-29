@@ -1,0 +1,247 @@
+{
+    "nodes": [
+        {
+            "id": "esc_criminal",
+            "title": "Criminal Charges Involved",
+            "severity": "HIGH",
+            "self_help_possible": false,
+            "triggers": [
+                "criminal charge",
+                "arrested",
+                "arrest",
+                "police",
+                "felony",
+                "misdemeanor",
+                "charged with",
+                "criminal record",
+                "prosecution",
+                "district attorney",
+                "da office",
+                "criminal court",
+                "probation",
+                "parole",
+                "jail",
+                "prison",
+                "incarceration"
+            ],
+            "escalation_message": "This situation involves criminal charges or criminal history, which can have severe and irreversible consequences — including imprisonment. You should contact a criminal defense attorney immediately. Many public defender offices and legal aid organizations offer free consultations.",
+            "resources": [
+                "Public Defender Office",
+                "Legal Aid Society",
+                "National Legal Aid & Defender Association (nlada.org)",
+                "Law school criminal defense clinics"
+            ]
+        },
+        {
+            "id": "esc_immigration",
+            "title": "Immigration Consequences",
+            "severity": "HIGH",
+            "self_help_possible": false,
+            "triggers": [
+                "deportation",
+                "deported",
+                "visa",
+                "green card",
+                "undocumented",
+                "immigration",
+                "uscis",
+                "ice",
+                "daca",
+                "asylum",
+                "refugee",
+                "citizenship",
+                "naturalization",
+                "work permit",
+                "immigration status",
+                "removal proceedings",
+                "immigration hold"
+            ],
+            "escalation_message": "Immigration consequences can be severe, irreversible, and life-altering — including deportation and permanent bars to reentry. Please consult an accredited immigration attorney or DOJ-accredited representative before taking any action. Do not sign any documents related to your immigration status without legal advice.",
+            "resources": [
+                "CLINIC (Catholic Legal Immigration Network)",
+                "ILRC (Immigrant Legal Resource Center)",
+                "National Immigration Law Center (nilc.org)",
+                "Local Legal Aid immigration units",
+                "BIA-accredited representatives directory"
+            ]
+        },
+        {
+            "id": "esc_custody",
+            "title": "Child Custody or Child Welfare Involved",
+            "severity": "HIGH",
+            "self_help_possible": false,
+            "triggers": [
+                "custody",
+                "child custody",
+                "child support",
+                "visitation",
+                "cps",
+                "child protective services",
+                "foster care",
+                "termination of parental rights",
+                "guardian",
+                "guardianship",
+                "dependency court",
+                "juvenile court",
+                "adoption",
+                "parental rights"
+            ],
+            "escalation_message": "Matters involving child custody, child support, and child welfare agencies are legally complex and outcomes significantly affect families. You should consult a family law attorney. Many legal aid organizations have family law units that can assist low-income individuals.",
+            "resources": [
+                "Local family law legal aid",
+                "State bar lawyer referral service",
+                "Self-help family law facilitator at courthouse",
+                "NCSL Family Law resources"
+            ]
+        },
+        {
+            "id": "esc_domestic_violence",
+            "title": "Domestic Violence or Stalking",
+            "severity": "HIGH",
+            "self_help_possible": false,
+            "triggers": [
+                "domestic violence",
+                "restraining order",
+                "protective order",
+                "abuse",
+                "abuser",
+                "stalking",
+                "harassment",
+                "threat",
+                "threatened",
+                "scared of partner",
+                "unsafe at home",
+                "intimate partner violence",
+                "ipv"
+            ],
+            "escalation_message": "If you are experiencing domestic violence, stalking, or feel unsafe, please reach out for help immediately. Legal protections including emergency protective orders are available. Your safety is the priority.",
+            "resources": [
+                "National Domestic Violence Hotline: 1-800-799-7233 (TTY: 1-800-787-3224)",
+                "Local domestic violence shelter",
+                "Legal aid domestic violence units (many offer emergency same-day assistance)",
+                "WomensLaw.org legal help"
+            ]
+        },
+        {
+            "id": "esc_bankruptcy",
+            "title": "Bankruptcy Situation",
+            "severity": "HIGH",
+            "self_help_possible": false,
+            "triggers": [
+                "bankruptcy",
+                "chapter 7",
+                "chapter 11",
+                "chapter 13",
+                "debt discharge",
+                "automatic stay",
+                "creditor harassment",
+                "wage garnishment",
+                "bank levy",
+                "insolvent",
+                "cannot pay debts",
+                "overwhelming debt"
+            ],
+            "escalation_message": "Bankruptcy involves complex federal law, strict procedural requirements, and significant long-term financial consequences. Filing incorrectly can result in dismissal or fraud allegations. Consult a bankruptcy attorney — many offer free initial consultations and reduced fees for low-income filers.",
+            "resources": [
+                "National Association of Consumer Bankruptcy Attorneys (nacba.org)",
+                "Legal Services Corporation bankruptcy programs",
+                "U.S. Bankruptcy Court self-help resources",
+                "Upsolve.org (free bankruptcy filing tool for simple Chapter 7)"
+            ]
+        },
+        {
+            "id": "esc_complex_contract",
+            "title": "Complex Contract or Business Dispute",
+            "severity": "MEDIUM",
+            "self_help_possible": false,
+            "triggers": [
+                "contract over $25000",
+                "business dispute",
+                "commercial lease",
+                "breach of contract",
+                "partnership dispute",
+                "business dissolution",
+                "shareholder",
+                "llc dispute",
+                "franchise",
+                "non-compete clause",
+                "intellectual property",
+                "trade secret"
+            ],
+            "escalation_message": "This appears to involve a significant contract or business dispute. These matters often involve complex legal and financial issues where the cost of an error can far exceed the cost of legal representation. Consult a business or contract attorney.",
+            "resources": [
+                "State bar lawyer referral service",
+                "SCORE (small business mentorship, score.org)",
+                "Local Small Business Development Center (SBDC)"
+            ]
+        },
+        {
+            "id": "esc_discrimination",
+            "title": "Employment or Housing Discrimination",
+            "severity": "MEDIUM",
+            "self_help_possible": true,
+            "triggers": [
+                "discrimination",
+                "discriminated",
+                "hostile work environment",
+                "sexual harassment",
+                "race discrimination",
+                "disability discrimination",
+                "eeoc",
+                "dfeh",
+                "fair housing",
+                "protected class",
+                "retaliation for complaint",
+                "wrongful termination for discrimination"
+            ],
+            "escalation_message": "Discrimination claims involve strict filing deadlines and complex legal requirements. You must typically file with an agency (EEOC or state equivalent) before you can sue. Missing these deadlines can permanently bar your claims. Consult an employment or civil rights attorney promptly.",
+            "resources": [
+                "EEOC (eeoc.gov) — file charge online",
+                "State DFEH or equivalent civil rights agency",
+                "National Employment Law Project (nelp.org)",
+                "Employment lawyers on contingency (American Association for Justice)"
+            ]
+        },
+        {
+            "id": "esc_medical_malpractice",
+            "title": "Medical Malpractice or Serious Personal Injury",
+            "severity": "HIGH",
+            "self_help_possible": false,
+            "triggers": [
+                "medical malpractice",
+                "doctor error",
+                "surgical error",
+                "misdiagnosis",
+                "hospital negligence",
+                "serious injury",
+                "wrongful death",
+                "personal injury",
+                "car accident injury",
+                "slip and fall serious"
+            ],
+            "escalation_message": "Medical malpractice and serious personal injury cases are highly complex, require expert witnesses, and have strict statutes of limitations. These cases are typically taken on contingency by personal injury attorneys at no upfront cost to you.",
+            "resources": [
+                "State bar personal injury lawyer referral",
+                "American Association for Justice (justice.org)",
+                "State medical board (for malpractice complaints)"
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "from": "esc_criminal",
+            "to": "esc_immigration",
+            "condition": "criminal_charge_with_immigration_consequences"
+        },
+        {
+            "from": "esc_domestic_violence",
+            "to": "esc_custody",
+            "condition": "children_involved_in_dv_situation"
+        },
+        {
+            "from": "esc_bankruptcy",
+            "to": "esc_complex_contract",
+            "condition": "business_bankruptcy"
+        }
+    ]
+}

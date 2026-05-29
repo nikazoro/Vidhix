@@ -1,0 +1,230 @@
+{
+    "id": "ca_small_claims",
+    "title": "California Small Claims Court — Filing a Claim",
+    "jurisdiction": "CA",
+    "legal_domain": "small-claims",
+    "description": "Step-by-step guide for filing and winning a small claims case in California. Covers claims up to $12,500 for individuals ($6,250 for businesses).",
+    "steps": [
+        {
+            "id": "ca_sc_001",
+            "step_number": 1,
+            "phase": "pre-filing",
+            "title": "Determine if small claims court is right for your case",
+            "description": "Small claims court handles money disputes only. You cannot sue for injunctions or to force someone to do something — only for money damages.",
+            "actions": [
+                "Confirm your claim is for money only (not injunctions or specific performance)",
+                "Check the claim limit: $12,500 for individuals, $6,250 for businesses, $2,500 for guarantors",
+                "Verify you are within the statute of limitations: 2 years for written contracts, 4 years for oral contracts, 3 years for property damage",
+                "Confirm you cannot sue in small claims more than twice per calendar year",
+                "Identify all defendants (people or businesses you are suing)"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "statute_of_limitations",
+                "notes": "Missing the statute of limitations permanently bars your claim."
+            },
+            "forms": [],
+            "agency": "California Courts Self-Help Center",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "claim_exceeds_limit",
+                "injunctive_relief_needed",
+                "complex_contract_dispute"
+            ]
+        },
+        {
+            "id": "ca_sc_002",
+            "step_number": 2,
+            "phase": "pre-filing",
+            "title": "Send a demand letter",
+            "description": "Before filing, send a written demand letter to the defendant. This is required by law for some claims and strengthens your case for all claims.",
+            "actions": [
+                "Write a clear demand letter stating: what happened, amount owed, and a deadline to respond (typically 10-14 days)",
+                "Send by certified mail with return receipt requested",
+                "Keep a copy and the delivery confirmation",
+                "If the defendant is a business, look up their registered agent for service of process"
+            ],
+            "deadlines": {
+                "response_days": 14,
+                "deadline_type": "calendar",
+                "notes": "Give defendant at least 10 days to respond before filing. This shows good faith."
+            },
+            "forms": [],
+            "agency": "N/A",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_sc_003",
+            "step_number": 3,
+            "phase": "filing",
+            "title": "File your claim with the court",
+            "description": "File Form SC-100 at the Small Claims Division of the Superior Court in the correct county.",
+            "actions": [
+                "Determine the correct court: where the defendant lives or does business, or where the contract was signed/performed",
+                "Complete Form SC-100 (Plaintiff's Claim and ORDER to Go to Small Claims Court)",
+                "List all defendants with their correct legal names and addresses",
+                "State your claim clearly and the exact dollar amount",
+                "Pay the filing fee ($30–$75 depending on claim amount) or file Form FW-001 for fee waiver",
+                "Receive your court date from the clerk — usually 30-75 days from filing"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "none",
+                "notes": "Hearing is typically scheduled 30-75 days after filing."
+            },
+            "forms": [
+                "SC-100",
+                "FW-001 (fee waiver, if applicable)"
+            ],
+            "agency": "Superior Court — Small Claims Division",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_sc_004",
+            "step_number": 4,
+            "phase": "filing",
+            "title": "Serve the defendant",
+            "description": "The defendant must be properly served with the court papers before the hearing. Improper service will result in your case being dismissed.",
+            "actions": [
+                "You CANNOT serve the papers yourself — use a process server, sheriff, or someone 18+ not involved in the case",
+                "Serve at least 15 days before the hearing if defendant is in California",
+                "Serve at least 20 days before if defendant is outside California",
+                "Complete Form SC-104 (Proof of Service) after service",
+                "File the Proof of Service with the court BEFORE the hearing",
+                "If you cannot serve the defendant, ask the clerk about substitute service options"
+            ],
+            "deadlines": {
+                "response_days": 15,
+                "deadline_type": "before_hearing",
+                "notes": "Must serve defendant at least 15 days before hearing (20 if outside CA). File proof of service before hearing date."
+            },
+            "forms": [
+                "SC-104 (Proof of Service)"
+            ],
+            "agency": "Sheriff's Office or Private Process Server",
+            "self_help_possible": false,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_sc_005",
+            "step_number": 5,
+            "phase": "hearing",
+            "title": "Prepare for your hearing",
+            "description": "Small claims hearings are informal but you must be organised and ready to present your case in 15-20 minutes.",
+            "actions": [
+                "Organise your evidence: contracts, receipts, invoices, photographs, text messages, emails",
+                "Prepare a simple written timeline of events",
+                "Bring 3 copies of all documents: one for judge, one for defendant, one for yourself",
+                "Identify and bring any witnesses who saw what happened",
+                "Practice a 2-minute summary of your claim",
+                "Calculate your damages precisely and bring itemised list"
+            ],
+            "deadlines": {
+                "response_days": null,
+                "deadline_type": "none",
+                "notes": "Arrive 30 minutes early. If you miss your hearing without notifying the court, your case will be dismissed."
+            },
+            "forms": [],
+            "agency": "Superior Court",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_sc_006",
+            "step_number": 6,
+            "phase": "post-hearing",
+            "title": "Attend the hearing and receive judgment",
+            "description": "Present your case to the judge. Judges often mail their decision rather than announcing it in court.",
+            "actions": [
+                "Arrive early and check in with the clerk",
+                "When called, briefly explain your case and present evidence",
+                "Let the judge guide the process — answer questions directly and honestly",
+                "If defendant does not appear, request a default judgment",
+                "Judgment may be mailed to you within a few days if not announced at hearing",
+                "If you lose, you may appeal to Superior Court within 30 days"
+            ],
+            "deadlines": {
+                "response_days": 30,
+                "deadline_type": "calendar",
+                "notes": "Appeal must be filed within 30 days of the clerk's mailing of the Notice of Entry of Judgment."
+            },
+            "forms": [
+                "SC-140 (Notice of Appeal, if applicable)"
+            ],
+            "agency": "Superior Court — Appellate Division",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_sc_007",
+            "step_number": 7,
+            "phase": "post-judgment",
+            "title": "Collect your judgment",
+            "description": "Winning a judgment does not mean automatic payment. You may need to take further steps to collect.",
+            "actions": [
+                "Wait 30 days after judgment for defendant to pay voluntarily or appeal",
+                "If unpaid after 30 days, file an Abstract of Judgment (EJ-001) to create a lien on property",
+                "Request a Writ of Execution (EJ-130) to have the sheriff garnish wages or bank accounts",
+                "Use Form SC-134 to find out where defendant works or banks (debtor's examination)",
+                "Judgments are valid for 10 years and can be renewed"
+            ],
+            "deadlines": {
+                "response_days": 30,
+                "deadline_type": "calendar",
+                "notes": "Defendant has 30 days to pay or appeal. After 30 days you can begin collection."
+            },
+            "forms": [
+                "EJ-001 (Abstract of Judgment)",
+                "EJ-130 (Writ of Execution)",
+                "SC-134"
+            ],
+            "agency": "Sheriff's Department, Superior Court",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        }
+    ],
+    "edges": [
+        {
+            "from": "ca_sc_001",
+            "to": "ca_sc_002",
+            "condition": null
+        },
+        {
+            "from": "ca_sc_002",
+            "to": "ca_sc_003",
+            "condition": "demand_ignored_or_refused"
+        },
+        {
+            "from": "ca_sc_002",
+            "to": null,
+            "condition": "demand_accepted_and_paid"
+        },
+        {
+            "from": "ca_sc_003",
+            "to": "ca_sc_004",
+            "condition": null
+        },
+        {
+            "from": "ca_sc_004",
+            "to": "ca_sc_005",
+            "condition": null
+        },
+        {
+            "from": "ca_sc_005",
+            "to": "ca_sc_006",
+            "condition": null
+        },
+        {
+            "from": "ca_sc_006",
+            "to": "ca_sc_007",
+            "condition": "judgment_for_plaintiff"
+        },
+        {
+            "from": "ca_sc_006",
+            "to": null,
+            "condition": "judgment_for_defendant"
+        }
+    ]
+}

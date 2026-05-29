@@ -1,0 +1,170 @@
+CALIFORNIA SMALL CLAIMS COURT GUIDE
+Source: California Courts Self-Help Center / California Code of Civil Procedure
+Jurisdiction: CA
+Domain: small-claims
+
+=============================================================
+SECTION 1: WHAT IS SMALL CLAIMS COURT
+=============================================================
+
+Small claims court is a special division of the California Superior Court designed to resolve minor civil disputes quickly and inexpensively without requiring an attorney. Cases are heard by a judge or commissioner who makes a decision based on the evidence presented.
+
+Small claims court handles money disputes only. You cannot sue in small claims court to force someone to do something (injunction) or to obtain a divorce or other non-monetary relief.
+
+Claim Limits (as of 2024)
+- Individuals: up to $12,500 per claim
+- Businesses, corporations, and other entities: up to $6,250 per claim
+- Guarantors (co-signers on a debt): up to $2,500
+- Individuals may not file more than 2 claims exceeding $2,500 per calendar year
+
+If your claim exceeds the limit, you must either reduce it to the limit (and waive the excess) or file in a higher court.
+
+=============================================================
+SECTION 2: COMMON TYPES OF SMALL CLAIMS CASES
+=============================================================
+
+Common disputes handled in California small claims court include:
+- Security deposit disputes with landlords
+- Property damage (car accidents, broken items)
+- Unpaid loans between individuals
+- Breach of contract (services not performed, goods not delivered)
+- Defective products or poor workmanship
+- Unpaid wages (small amounts)
+- Consumer disputes (refunds refused, fraudulent charges)
+- Neighbor disputes (damaged property, flooding)
+
+=============================================================
+SECTION 3: STATUTE OF LIMITATIONS
+=============================================================
+
+You must file your claim within the applicable statute of limitations or your case will be permanently barred. Common deadlines are:
+
+- Written contracts: 4 years from the date of breach (California Code of Civil Procedure Section 337)
+- Oral (verbal) contracts: 2 years from the date of breach (CCP Section 339)
+- Property damage: 3 years from the date of damage (CCP Section 338)
+- Personal injury: 2 years from the date of injury (CCP Section 335.1)
+- Claims against a government agency: you must file a government tort claim within 6 months before suing
+
+=============================================================
+SECTION 4: BEFORE YOU FILE — SEND A DEMAND LETTER
+=============================================================
+
+Before filing a small claims case, it is strongly recommended (and required for some claim types) to send a written demand letter to the person or business you want to sue. A demand letter:
+- Shows the court you tried to resolve the dispute before filing
+- Gives the other party an opportunity to pay without going to court
+- May convince the defendant to settle, saving you time and money
+
+Your demand letter should include:
+- Your name and contact information
+- The defendant's name and address
+- A clear description of what happened and when
+- The exact amount you are claiming
+- A deadline to respond (typically 10-14 days)
+- A statement that you will file in small claims court if not paid
+
+Send the demand letter by certified mail with return receipt requested. Keep a copy and the delivery confirmation — bring these to court.
+
+=============================================================
+SECTION 5: WHERE TO FILE
+=============================================================
+
+File your small claims case in the Superior Court of the county where:
+- The defendant lives, works, or does business; OR
+- The contract was signed or was to be performed; OR
+- The injury or damage occurred; OR
+- The property that is the subject of the dispute is located
+
+Filing in the wrong county can result in your case being transferred or dismissed.
+
+=============================================================
+SECTION 6: HOW TO FILE YOUR CLAIM
+=============================================================
+
+Step 1: Complete Form SC-100 (Plaintiff's Claim and ORDER to Go to Small Claims Court). The form is available at the court clerk's office, the court's self-help center, or online at courts.ca.gov/forms.
+
+Step 2: On Form SC-100, you must correctly identify each defendant. For individuals, use their full legal name. For businesses, use the exact legal name. For a sole proprietorship, name both the owner and the business name. For corporations, name the corporation (not the individual officers). You can look up a business's legal name at the California Secretary of State website (bizfileonline.sos.ca.gov).
+
+Step 3: File the completed form at the court clerk's office. Pay the filing fee (based on the claim amount):
+- Claims up to $1,500: $30
+- Claims $1,501 to $5,000: $50
+- Claims $5,001 to $10,000: $75
+- Claims over $10,000: $100
+
+Step 4: If you cannot afford the filing fee, complete Form FW-001 (Application for Waiver of Court Fees) at the same time.
+
+Step 5: The clerk will assign a hearing date, typically 30 to 75 days from the filing date, and give you a copy of your filed claim stamped with the hearing date.
+
+=============================================================
+SECTION 7: SERVING THE DEFENDANT
+=============================================================
+
+The defendant must be properly notified of your lawsuit (served) before the hearing. Improper service is one of the most common reasons small claims cases are dismissed.
+
+Critical Rules
+- You CANNOT serve the papers yourself. Service must be done by someone who is not a party to the case and is at least 18 years old.
+- Service must be completed at least 15 days before the hearing date if the defendant is in California.
+- Service must be completed at least 20 days before the hearing date if the defendant is outside California.
+
+Methods of Service
+1. Personal service: A process server, sheriff, or other adult hands the papers directly to the defendant. This is the most reliable method.
+2. Substituted service: If personal service is not possible after reasonable attempts, the server can leave papers with an adult at the defendant's home or workplace AND mail a copy by first-class mail to the same address.
+3. Service by the court clerk (certified mail): For some defendants, you can ask the clerk to serve by certified mail. This only counts as valid service if the defendant signs the return receipt.
+
+After service is completed, the person who served the papers must complete Form SC-104 (Proof of Service) and you must file it with the court BEFORE your hearing date.
+
+=============================================================
+SECTION 8: PREPARING FOR YOUR HEARING
+=============================================================
+
+Small claims hearings are informal but you must be organized. The judge or commissioner will hear both sides and ask questions. Most hearings last 15-20 minutes.
+
+Evidence to bring (make 3 copies of everything: one for the judge, one for the other party, one for yourself):
+- Written contracts, invoices, estimates, or receipts
+- Photographs or videos documenting damage or the issue
+- Text messages, emails, or letters between the parties
+- Bank statements or payment records
+- Repair estimates or bills from licensed contractors
+- Any government reports (police reports, inspection reports)
+
+Witnesses
+You may bring witnesses to testify on your behalf. Witnesses must appear in person — written statements from people not present are generally not accepted unless they are a sworn declaration. If a witness will not come voluntarily, you can subpoena them using Form SC-107 (Subpoena). Contact the self-help center for help with subpoenas.
+
+Prepare a 2-Minute Summary
+Be ready to explain your case in 2 minutes: what happened, when it happened, what you lost, and the exact amount you are claiming. Keep it factual and organized.
+
+=============================================================
+SECTION 9: AT THE HEARING
+=============================================================
+
+- Arrive at least 30 minutes early and check in with the court clerk.
+- Bring all your evidence organized in a folder or binder.
+- When your case is called, stand at the plaintiff's table and address the judge respectfully.
+- If the defendant does not appear, you can ask for a default judgment in your favor.
+- If you do not appear, your case will be dismissed.
+- The judge may announce a decision immediately or mail it within a few days.
+
+=============================================================
+SECTION 10: AFTER THE JUDGMENT
+=============================================================
+
+Appeal Rights
+Either party may appeal the judgment. The appeal deadline is 30 days from the date the court clerk mails the Notice of Entry of Judgment. The defendant may appeal to the Superior Court for a new trial. The plaintiff may only appeal on limited grounds (e.g., not to get a higher amount — you can only appeal if you lost or if the court made a legal error).
+
+Collecting Your Judgment
+Winning a judgment does not mean the defendant will automatically pay. The defendant has 30 days after the judgment becomes final to pay voluntarily. After 30 days (or after an appeal is resolved), you may take enforcement steps:
+
+- Abstract of Judgment (Form EJ-001): File this with the court clerk and record it with the county recorder to create a lien on the defendant's real property. This means the defendant cannot sell or refinance property without paying your judgment.
+- Writ of Execution (Form EJ-130): Take this to the Sheriff's office and direct the Sheriff to garnish the defendant's wages (up to 25% of disposable earnings) or levy a bank account.
+- Debtor's Examination (Form SC-134 / EJ-125): Require the defendant to come to court and answer questions under oath about their income, assets, and employment so you can determine the best way to collect.
+
+Judgments are valid for 10 years and can be renewed for another 10 years before expiration.
+
+=============================================================
+SECTION 11: RESOURCES
+=============================================================
+
+- California Courts Small Claims Guide: courts.ca.gov/selfhelp-smallclaims
+- California Courts Forms: courts.ca.gov/forms
+- Court Self-Help Centers: locate at courts.ca.gov/selfhelp-selfhelpcenters
+- California Secretary of State (business name lookup): bizfileonline.sos.ca.gov
+- California Department of Consumer Affairs: dca.ca.gov

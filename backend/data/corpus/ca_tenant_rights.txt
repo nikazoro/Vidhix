@@ -1,0 +1,150 @@
+CALIFORNIA TENANT RIGHTS GUIDE
+Source: California Courts Self-Help Center / California Civil Code
+Jurisdiction: CA
+Domain: tenant-rights
+
+=============================================================
+SECTION 1: TYPES OF EVICTION NOTICES
+=============================================================
+
+A landlord must give a tenant written notice before filing an eviction lawsuit (unlawful detainer). The type of notice depends on the reason for eviction.
+
+3-Day Notice to Pay Rent or Quit
+A landlord may serve a 3-Day Notice to Pay Rent or Quit when a tenant has not paid rent. The notice must state the exact amount of rent owed, the name and address where rent can be paid, and the landlord's contact information. The tenant has 3 calendar days (including weekends and holidays) to pay the full amount stated or vacate. If day 3 falls on a weekend or court holiday, the deadline extends to the next business day. Partial payment does not satisfy the notice. If the landlord accepts partial payment after serving the notice, the notice may be waived.
+
+3-Day Notice to Cure or Quit
+A landlord may serve a 3-Day Notice to Cure or Quit when a tenant has violated a lease term other than nonpayment of rent. The notice must describe the specific violation and what the tenant must do to fix it. The tenant has 3 calendar days to correct the violation or vacate.
+
+3-Day Notice to Quit (Unconditional)
+An unconditional 3-Day Notice to Quit does not give the tenant an opportunity to pay or fix a violation. It is only allowed for serious lease violations such as illegal activity, significant damage to the property, or subletting without permission. The tenant must vacate within 3 days.
+
+30-Day or 60-Day Notice to Vacate (No-Fault)
+For month-to-month tenancies, a landlord may terminate the tenancy without cause by giving written notice. A 30-day notice is required if the tenant has lived in the unit less than 1 year. A 60-day notice is required if the tenant has lived in the unit 1 year or more. Some cities with just-cause eviction ordinances (Los Angeles, San Francisco, Oakland, Berkeley, etc.) require the landlord to state a valid just cause for termination regardless of tenancy length.
+
+=============================================================
+SECTION 2: JUST CAUSE EVICTION PROTECTIONS
+=============================================================
+
+Under California Civil Code Section 1946.2 (AB 1482, effective January 1, 2020), tenants who have continuously and lawfully occupied a residential dwelling for 12 months or more are protected from eviction without just cause. This law applies statewide to most residential tenants.
+
+At-Fault Just Cause includes: nonpayment of rent, breach of a material lease term, maintaining a nuisance, committing waste, criminal activity on the premises, refusing to sign a new lease with similar terms, and subletting without permission.
+
+No-Fault Just Cause includes: owner or owner's family member moving into the unit, withdrawal of the unit from the rental market, substantial remodel requiring the tenant to vacate, and government order requiring the tenant to vacate. In no-fault evictions, the landlord must pay the tenant one month's rent as relocation assistance.
+
+=============================================================
+SECTION 3: TENANT DEFENSES IN UNLAWFUL DETAINER PROCEEDINGS
+=============================================================
+
+Improper Service of Notice
+A notice that was not properly served is invalid. Proper service methods include personal delivery to the tenant, substituted service (leaving with an adult at the residence and mailing a copy), or posting and mailing (if personal and substituted service cannot be completed after reasonable attempts).
+
+Rent Was Paid
+If the tenant paid the rent before the notice period expired, or can prove the rent was paid, this is a complete defense.
+
+Landlord Refused Payment
+If the landlord refused the tenant's payment of the full amount owed, the tenant can raise this as a defense.
+
+Warranty of Habitability
+Under California Civil Code Section 1941, landlords are required to maintain rental units in a habitable condition. If the landlord has failed to make necessary repairs after being notified, the tenant may have a defense based on breach of the warranty of habitability. The unit must have effective waterproofing, proper heating, plumbing, electrical, and be free of vermin and pests.
+
+Retaliatory Eviction
+Under California Civil Code Section 1942.5, a landlord may not retaliate against a tenant for exercising their legal rights, such as complaining to a government agency about habitability, requesting repairs, or organizing with other tenants. If a landlord serves an eviction notice within 180 days of protected activity, there is a rebuttable presumption of retaliation. Retaliatory eviction is a complete defense.
+
+Discriminatory Eviction
+Under the California Fair Employment and Housing Act (FEHA) and the federal Fair Housing Act, landlords may not evict tenants based on race, color, religion, sex, national origin, familial status, disability, sexual orientation, gender identity, marital status, or source of income (in many jurisdictions).
+
+Rent Control / Local Ordinances
+Many California cities have local rent control or just-cause eviction ordinances that provide additional protections beyond state law. Tenants in Los Angeles, San Francisco, Oakland, San Jose, and other cities should check local ordinances.
+
+=============================================================
+SECTION 4: THE UNLAWFUL DETAINER COURT PROCESS
+=============================================================
+
+Filing the Complaint
+If the tenant does not comply with the notice within the notice period, the landlord may file an Unlawful Detainer (UD) lawsuit in Superior Court. The landlord files a Summons (UD-105) and Complaint for Unlawful Detainer.
+
+Serving the Tenant
+The tenant must be served with the Summons and Complaint. Personal service is preferred. Substituted service (serving an adult at the residence or workplace and mailing) is allowed if personal service cannot be completed.
+
+Tenant's Answer (5 Business Days)
+After being served with the Summons and Complaint, the tenant has 5 business days (excluding weekends and court holidays) to file a written Answer (Form UD-105) with the court. This is the most critical deadline. Failure to file an Answer allows the landlord to request a default judgment.
+
+Filing Fee Waiver
+Tenants who cannot afford the filing fee may complete Form FW-001 (Application for Waiver of Court Fees and Costs) to request a fee waiver based on financial hardship.
+
+Trial / Hearing
+After the Answer is filed, the court will schedule a trial, usually within 20 calendar days. Trials are conducted informally. Both parties present evidence, documents, and testimony. Common evidence includes the lease, rent payment records, repair requests, photographs, and communications.
+
+Judgment
+If the landlord wins, the court issues a judgment for possession and may award unpaid rent, damages, and attorney fees. If the tenant wins, the case is dismissed and the tenant may remain in the unit. The court may also award the tenant attorney fees in some cases.
+
+=============================================================
+SECTION 5: POST-JUDGMENT RIGHTS AND PROCEDURES
+=============================================================
+
+Writ of Possession
+After a judgment for the landlord, the landlord must obtain a Writ of Possession from the court clerk. The Sheriff then posts a 5-day notice to vacate on the property.
+
+Sheriff Lockout
+After the 5-day notice period, the Sheriff may physically remove the tenant and change the locks. The tenant must retrieve personal belongings according to abandonment property rules.
+
+Appeal
+A tenant may appeal a judgment within 30 days of the clerk's mailing of the Notice of Entry of Judgment. An appeal goes to the Appellate Division of the Superior Court. A stay of execution may be requested to prevent lockout during the appeal.
+
+=============================================================
+SECTION 6: SECURITY DEPOSITS
+=============================================================
+
+Under California Civil Code Section 1950.5, a landlord may collect a security deposit of up to 2 months' rent for an unfurnished unit or 3 months' rent for a furnished unit.
+
+Allowable Deductions
+A landlord may deduct from the security deposit for: unpaid rent, cleaning costs to restore the unit to the condition at the start of tenancy (accounting for normal wear and tear), repair of damages beyond normal wear and tear, and replacement of keys or personal property provided in the lease.
+
+Normal Wear and Tear
+Normal wear and tear (minor scuffs, faded paint, worn carpet from normal use) cannot be deducted from the security deposit. Only damage caused by the tenant beyond ordinary use may be charged.
+
+Return Deadline
+The landlord must return the security deposit or provide an itemized written statement of deductions within 21 calendar days of the tenant vacating. Failure to return the deposit within 21 days may entitle the tenant to up to twice the amount of the deposit as a penalty (bad faith withholding).
+
+=============================================================
+SECTION 7: RETALIATION PROTECTIONS
+=============================================================
+
+California Civil Code Section 1942.5 prohibits retaliatory actions by landlords including: increasing rent, reducing services, serving an eviction notice, or attempting to terminate a tenancy within 180 days of the tenant doing any of the following: complaining in good faith to a government agency about substandard conditions, requesting repairs in writing, contacting a tenant rights organization, or organizing with other tenants.
+
+The tenant bears the initial burden of showing the protected activity occurred within 180 days of the retaliatory act. The burden then shifts to the landlord to show a non-retaliatory reason.
+
+=============================================================
+SECTION 8: HABITABILITY REQUIREMENTS
+=============================================================
+
+Under California Civil Code Section 1941.1, a rental unit is considered habitable if it has all of the following:
+- Effective waterproofing and weather protection of roof and exterior walls, including unbroken windows and doors
+- Plumbing and gas facilities in good working order
+- A water supply producing hot and cold running water
+- Adequate heating facilities in good working order
+- Electrical lighting and wiring in good working order
+- Building, grounds, and common areas kept clean and free from debris and vermin
+- Adequate trash receptacles
+- Floors, stairways, and railings in good repair
+
+If a unit lacks any of these, the tenant should notify the landlord in writing and request repairs. If the landlord fails to make repairs within a reasonable time (generally 30 days for non-emergency conditions), the tenant may have the right to repair and deduct the cost (up to one month's rent) or abandon the unit and terminate the lease.
+
+=============================================================
+SECTION 9: IMMIGRATION STATUS PROTECTIONS
+=============================================================
+
+Under California Civil Code Section 1940.35, it is unlawful for a landlord to threaten to report a tenant's immigration or citizenship status (or that of a household member) to any government authority as a way to influence, pressure, or retaliate against the tenant in connection with a tenancy. Violation is punishable as a misdemeanor and the tenant may also sue for civil damages. Such threats constitute illegal retaliation and potentially extortion.
+
+=============================================================
+SECTION 10: RESOURCES
+=============================================================
+
+- California Courts Self-Help Center: selfhelp.courts.ca.gov
+- Bay Area Legal Aid: baylegal.org
+- Inner City Law Center (Los Angeles): innercitylaw.org
+- Tenants Together (statewide): tenantstogether.org
+- California Department of Consumer Affairs: dca.ca.gov
+- Legal Aid Foundation of Los Angeles: lafla.org
+- Bet Tzedek Legal Services: bettzedek.org
+- California Courts Forms: courts.ca.gov/forms

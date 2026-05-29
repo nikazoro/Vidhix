@@ -1,0 +1,284 @@
+{
+    "id": "ca_eviction_defense",
+    "title": "California Eviction Defense (Unlawful Detainer)",
+    "jurisdiction": "CA",
+    "legal_domain": "tenant-rights",
+    "description": "Step-by-step guide for tenants facing eviction in California. Covers the full unlawful detainer process from notice receipt through post-judgment options.",
+    "steps": [
+        {
+            "id": "ca_ev_001",
+            "step_number": 1,
+            "phase": "pre-filing",
+            "title": "Receive and review the eviction notice",
+            "description": "Carefully read every word of the notice. The type of notice determines your response window and available defenses. Common types: 3-Day Pay or Quit, 3-Day Cure or Quit, 30-Day or 60-Day No-Fault Notice.",
+            "actions": [
+                "Identify the notice type (Pay or Quit, Cure or Quit, No-Fault, Terminate Tenancy)",
+                "Verify the notice is properly served (personal service, substituted service, or posting + mail)",
+                "Count your response days carefully — start counting the day AFTER service",
+                "Check that the landlord's name, property address, and amounts owed (if any) are accurate",
+                "Photograph the notice and envelope immediately"
+            ],
+            "deadlines": {
+                "response_days": 3,
+                "deadline_type": "calendar",
+                "excludes_weekends": false,
+                "notes": "3-day notices count calendar days including weekends. If day 3 falls on a weekend or court holiday, deadline extends to next business day."
+            },
+            "forms": [],
+            "agency": "N/A",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "notice_is_for_criminal_activity",
+                "domestic_violence_involved",
+                "section_8_involved"
+            ]
+        },
+        {
+            "id": "ca_ev_002",
+            "step_number": 2,
+            "phase": "pre-filing",
+            "title": "Evaluate your options and defenses",
+            "description": "Before the landlord can file in court, you have options. If you have a Pay or Quit notice, paying all rent owed stops the eviction. If you have a Cure or Quit, fixing the lease violation stops it. Evaluate whether any defenses apply.",
+            "actions": [
+                "If Pay or Quit: calculate exact amount owed and determine ability to pay",
+                "If Cure or Quit: identify the lease violation and whether you can fix it",
+                "Identify potential defenses: improper notice, landlord retaliation, landlord failure to maintain habitable conditions, rent was paid, wrong amount on notice",
+                "Check if local rent control or just-cause eviction ordinances apply (LA, SF, Oakland, etc.)",
+                "Contact a local tenant legal aid organization for a free case evaluation"
+            ],
+            "deadlines": {
+                "response_days": 3,
+                "deadline_type": "calendar",
+                "excludes_weekends": false,
+                "notes": "You must act before the notice period expires or the landlord may file in court."
+            },
+            "forms": [],
+            "agency": "Local tenant legal aid (Bay Area Legal Aid, Inner City Law Center, etc.)",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "retaliation_suspected",
+                "habitability_severe",
+                "discrimination_suspected"
+            ]
+        },
+        {
+            "id": "ca_ev_003a",
+            "step_number": 3,
+            "phase": "pre-filing",
+            "title": "Pay rent or cure the violation",
+            "description": "If you can pay the full amount owed or fix the violation within the notice period, the eviction stops. Get written proof of payment.",
+            "actions": [
+                "Pay the full amount stated in the notice (partial payment does NOT stop the eviction)",
+                "Pay by cashier's check or money order — keep your receipt",
+                "Demand a written receipt from the landlord",
+                "If landlord refuses payment, document the refusal in writing (this is a defense)",
+                "Keep copies of all payment records permanently"
+            ],
+            "deadlines": {
+                "response_days": 3,
+                "deadline_type": "calendar",
+                "excludes_weekends": false
+            },
+            "forms": [],
+            "agency": "N/A",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_ev_003b",
+            "step_number": 3,
+            "phase": "pre-filing",
+            "title": "Prepare for court if not paying or landlord files anyway",
+            "description": "If you cannot pay, do not cure, or the landlord files an Unlawful Detainer lawsuit regardless, you must prepare your court response.",
+            "actions": [
+                "Gather all evidence: lease, payment records, repair request letters, communications",
+                "Document any habitability issues with photographs and dated notes",
+                "Contact legal aid immediately — many offer emergency assistance for eviction cases",
+                "Identify witnesses who can testify on your behalf",
+                "Begin preparing your Answer to the UD complaint"
+            ],
+            "deadlines": {
+                "response_days": 5,
+                "deadline_type": "business",
+                "excludes_weekends": true,
+                "notes": "After being served with the UD Summons and Complaint, you have 5 business days to file your Answer with the court."
+            },
+            "forms": [
+                "UD-105 (Answer — Unlawful Detainer)"
+            ],
+            "agency": "Superior Court — Civil Division",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "criminal_history_involved",
+                "immigration_status_relevant"
+            ]
+        },
+        {
+            "id": "ca_ev_004",
+            "step_number": 4,
+            "phase": "filing",
+            "title": "File your Answer with the court",
+            "description": "You must file a written Answer (Form UD-105) with the Superior Court within 5 business days of being served the UD complaint. Filing an Answer preserves your right to a hearing.",
+            "actions": [
+                "Complete Form UD-105 (Answer — Unlawful Detainer) — available at court self-help centers",
+                "Check all applicable affirmative defenses on the form",
+                "Make 3 copies: original for court, one for you, one to serve on landlord's attorney",
+                "File at the court clerk's office and pay the filing fee (or request fee waiver Form FW-001)",
+                "Serve a copy on the plaintiff (landlord's attorney) by mail or personal delivery",
+                "File Proof of Service (Form POS-030) with the court"
+            ],
+            "deadlines": {
+                "response_days": 5,
+                "deadline_type": "business",
+                "excludes_weekends": true,
+                "notes": "Day 1 is the day AFTER you were personally served. Deadline is strictly enforced — default judgment can be entered if you miss it."
+            },
+            "forms": [
+                "UD-105",
+                "FW-001 (fee waiver, if applicable)",
+                "POS-030"
+            ],
+            "agency": "Superior Court — Civil Division (Self-Help Center)",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        },
+        {
+            "id": "ca_ev_005",
+            "step_number": 5,
+            "phase": "hearing",
+            "title": "Attend the court hearing",
+            "description": "After you file your Answer, the court will schedule a trial, usually within 20 days. Prepare thoroughly. Bring all evidence.",
+            "actions": [
+                "Confirm hearing date, time, and courtroom from your court notice",
+                "Organize evidence in a binder: lease, rent receipts, repair requests, photos, communications",
+                "Prepare a written timeline of events",
+                "Subpoena witnesses if needed (ask self-help center for assistance)",
+                "Arrive 30 minutes early — dress professionally",
+                "Present your defenses clearly and calmly; address the judge as 'Your Honor'",
+                "Request a continuance if you need more time to prepare (not guaranteed)"
+            ],
+            "deadlines": {
+                "response_days": 20,
+                "deadline_type": "calendar",
+                "excludes_weekends": false,
+                "notes": "Trial is typically set within 20 calendar days of the Answer being filed."
+            },
+            "forms": [],
+            "agency": "Superior Court",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "complex_legal_issues",
+                "landlord_has_attorney"
+            ]
+        },
+        {
+            "id": "ca_ev_006",
+            "step_number": 6,
+            "phase": "post-hearing",
+            "title": "Receive judgment and evaluate next steps",
+            "description": "The judge will issue a judgment. If you win, you stay. If you lose, you have options before a lockout occurs.",
+            "actions": [
+                "If you WIN: obtain certified copy of judgment for your records",
+                "If you LOSE: you typically have 5 days before the landlord can get a Writ of Possession",
+                "If you LOSE: consider filing a Notice of Appeal (must be within 30 days of judgment)",
+                "If you LOSE: negotiate a move-out agreement with landlord to avoid formal lockout",
+                "If you LOSE: request a stay of execution from the court if you need more time",
+                "Document everything that happens after the judgment"
+            ],
+            "deadlines": {
+                "response_days": 5,
+                "deadline_type": "calendar",
+                "excludes_weekends": false,
+                "notes": "Sheriff cannot execute lockout until at least 5 days after judgment. Appeal deadline is 30 days."
+            },
+            "forms": [
+                "Notice of Appeal (if applicable)",
+                "Ex Parte Application for Stay"
+            ],
+            "agency": "Superior Court — Appellate Division",
+            "self_help_possible": true,
+            "escalation_triggers": [
+                "appeal_complex_legal_question"
+            ]
+        },
+        {
+            "id": "ca_ev_007",
+            "step_number": 7,
+            "phase": "post-judgment",
+            "title": "Handle lockout or move-out",
+            "description": "If the landlord obtains a Writ of Possession, the Sheriff will post a 5-day notice to vacate. Know your rights during this process.",
+            "actions": [
+                "Remove all belongings before the Sheriff returns — abandoned property rules apply",
+                "Document the condition of the unit with video and photos on move-out",
+                "Request an itemised accounting of your security deposit within 21 days",
+                "File a claim in Small Claims Court if security deposit is wrongfully withheld",
+                "Check if the eviction affects your rental history — some credit reporting protections apply",
+                "Seek emergency housing assistance through 211.org or local social services"
+            ],
+            "deadlines": {
+                "response_days": 21,
+                "deadline_type": "calendar",
+                "excludes_weekends": false,
+                "notes": "Landlord must return security deposit or itemized deductions within 21 days of move-out."
+            },
+            "forms": [
+                "SC-100 (Small Claims, if deposit withheld)"
+            ],
+            "agency": "Sheriff's Department, Small Claims Court",
+            "self_help_possible": true,
+            "escalation_triggers": []
+        }
+    ],
+    "edges": [
+        {
+            "from": "ca_ev_001",
+            "to": "ca_ev_002",
+            "condition": null
+        },
+        {
+            "from": "ca_ev_002",
+            "to": "ca_ev_003a",
+            "condition": "tenant_can_pay_or_cure"
+        },
+        {
+            "from": "ca_ev_002",
+            "to": "ca_ev_003b",
+            "condition": "tenant_cannot_pay_or_landlord_files"
+        },
+        {
+            "from": "ca_ev_003a",
+            "to": "ca_ev_001",
+            "condition": "landlord_refuses_payment"
+        },
+        {
+            "from": "ca_ev_003a",
+            "to": null,
+            "condition": "eviction_stopped"
+        },
+        {
+            "from": "ca_ev_003b",
+            "to": "ca_ev_004",
+            "condition": null
+        },
+        {
+            "from": "ca_ev_004",
+            "to": "ca_ev_005",
+            "condition": null
+        },
+        {
+            "from": "ca_ev_005",
+            "to": "ca_ev_006",
+            "condition": null
+        },
+        {
+            "from": "ca_ev_006",
+            "to": "ca_ev_007",
+            "condition": "judgment_for_landlord"
+        },
+        {
+            "from": "ca_ev_006",
+            "to": null,
+            "condition": "judgment_for_tenant"
+        }
+    ]
+}
